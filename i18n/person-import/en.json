@@ -1,0 +1,53 @@
+{
+  "toolbar": {
+    "title": "Data Upload",
+    "description": "Bulk-import members from an Excel file"
+  },
+  "template": {
+    "title": "Import Template",
+    "description": "Download the Excel template, fill it in, then upload it below.",
+    "download": "Download template"
+  },
+  "upload": {
+    "title": "Upload Excel File",
+    "description": "Select the completed Excel file and upload it.",
+    "button": "Upload",
+    "comingSoon": "Upload will be enabled in the next step.",
+    "success": "File uploaded successfully.",
+    "error": "Upload failed."
+  },
+  "table": {
+    "title": "My Uploads",
+    "file": "File",
+    "date": "Date",
+    "status": "Status",
+    "note": "Note",
+    "empty": "No uploads yet",
+    "loadError": "Failed to load uploads."
+  },
+  "status": {
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "uploaded": "Uploaded",
+    "processing": "Processing",
+    "done": "Done"
+  },
+  "admin": {
+    "title": "All Uploads",
+    "uploadedBy": "Uploaded By",
+    "empty": "No uploads",
+    "actions": {
+      "startProcessing": "Start Processing",
+      "markDone": "Mark Done",
+      "reject": "Reject",
+      "download": "Download"
+    },
+    "reject": {
+      "title": "Reject upload",
+      "reasonLabel": "Reason",
+      "confirm": "Reject",
+      "cancel": "Cancel"
+    }
+  }
+}

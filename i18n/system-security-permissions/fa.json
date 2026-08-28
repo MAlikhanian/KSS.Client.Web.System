@@ -1,0 +1,22 @@
+{
+  "pageTitle": "مدیریت دسترسی‌ها",
+  "pageDescription": "مشاهده فهرست مجوزها (فقط خواندنی — توسط DBA مدیریت می‌شود)",
+
+  "permission": "مجوز",
+  "permissions": "مجوزها",
+
+  "code": "کد",
+  "name": "نام",
+  "description": "توضیحات",
+  "group": "گروه",
+  "isActive": "فعال",
+
+  "module": "ماژول",
+  "modules": "ماژول‌ها",
+  "allModules": "همه ماژول‌ها",
+  "selectModule": "انتخاب ماژول",
+  "resource": "منبع",
+  "resources": "منابع",
+  "allResources": "همه منابع",
+  "selectResource": "انتخاب منبع"
+}

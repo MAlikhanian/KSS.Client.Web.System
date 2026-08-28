@@ -1,0 +1,22 @@
+{
+  "pageTitle": "Permissions",
+  "pageDescription": "View the permission catalog (read-only — maintained by DBA)",
+
+  "permission": "Permission",
+  "permissions": "Permissions",
+
+  "code": "Code",
+  "name": "Name",
+  "description": "Description",
+  "group": "Group",
+  "isActive": "Active",
+
+  "module": "Module",
+  "modules": "Modules",
+  "allModules": "All modules",
+  "selectModule": "Select module",
+  "resource": "Resource",
+  "resources": "Resources",
+  "allResources": "All resources",
+  "selectResource": "Select resource"
+}

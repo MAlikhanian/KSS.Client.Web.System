@@ -1,0 +1,43 @@
+{
+  "toolbar": {
+    "title": "Item Requests",
+    "description": "Request a new lookup item; an admin reviews and adds it"
+  },
+  "request": {
+    "title": "New Request",
+    "description": "Describe the item you want added",
+    "placeholder": "Describe the item you want added…",
+    "button": "Submit",
+    "success": "Request submitted successfully.",
+    "error": "Failed to submit request."
+  },
+  "table": {
+    "title": "My Requests",
+    "description": "Description",
+    "date": "Date",
+    "status": "Status",
+    "note": "Note",
+    "empty": "No requests yet",
+    "loadError": "Failed to load requests."
+  },
+  "status": {
+    "pending": "Pending",
+    "done": "Done",
+    "rejected": "Rejected"
+  },
+  "admin": {
+    "title": "All Requests",
+    "requestedBy": "Requested By",
+    "empty": "No requests",
+    "actions": {
+      "markDone": "Mark Done",
+      "reject": "Reject"
+    },
+    "reject": {
+      "title": "Reject request",
+      "reasonLabel": "Reason",
+      "confirm": "Reject",
+      "cancel": "Cancel"
+    }
+  }
+}
