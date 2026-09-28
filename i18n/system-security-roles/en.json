@@ -1,0 +1,28 @@
+{
+  "pageTitle": "Roles",
+  "pageDescription": "View the role catalog (read-only — maintained by DBA)",
+
+  "role": "Role",
+  "roles": "Roles",
+  "selectRole": "Select Role",
+  "globalRole": "Global role",
+  "includeGlobalRoles": "Include global roles",
+
+  "code": "Code",
+  "name": "Name",
+  "description": "Description",
+  "group": "Group",
+  "isActive": "Active",
+
+  "permission": "Permission",
+  "permissions": "Permissions",
+
+  "module": "Module",
+  "modules": "Modules",
+  "allModules": "All modules",
+  "selectModule": "Select module",
+  "resource": "Resource",
+  "resources": "Resources",
+  "allResources": "All resources",
+  "selectResource": "Select resource"
+}

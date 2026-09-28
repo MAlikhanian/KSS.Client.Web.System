@@ -1,0 +1,31 @@
+{
+  "pageTitle": "Role Permissions",
+  "pageDescription": "View permissions assigned to each role (read-only — maintained by DBA)",
+
+  "rolePermissions": "Role Permissions",
+  "noRoleSelected": "Please select a role",
+  "permissionsAssigned": "Assigned permissions",
+
+  "role": "Role",
+  "roles": "Roles",
+  "selectRole": "Select Role",
+  "globalRole": "Global role",
+
+  "permission": "Permission",
+  "permissions": "Permissions",
+
+  "code": "Code",
+  "name": "Name",
+  "description": "Description",
+  "group": "Group",
+  "isActive": "Active",
+
+  "module": "Module",
+  "modules": "Modules",
+  "allModules": "All modules",
+  "selectModule": "Select module",
+  "resource": "Resource",
+  "resources": "Resources",
+  "allResources": "All resources",
+  "selectResource": "Select resource"
+}
